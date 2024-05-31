@@ -1,0 +1,11 @@
+{
+  "name": "k6-indisell",
+  "version": "1.0.0",
+  "description": "this is k6 script for indisell apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syed umaya",
+  "license": "ISC"
+}
